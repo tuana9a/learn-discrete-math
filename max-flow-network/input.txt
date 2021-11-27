@@ -1,0 +1,16 @@
+//số đỉnh 6
+//số cạnh 9
+
+digraph gemdino {
+0 -> 1 [label="10"]
+0 -> 3 [label="10"]
+1 -> 2 [label="4"]
+1 -> 3 [label="2"]
+1 -> 4 [label="8"]
+3 -> 4 [label="9"]
+4 -> 2 [label="6"]
+4 -> 5 [label="10"]
+2 -> 5 [label="10"]
+{rank = same;1,3}
+{rank = same;4,2}
+}

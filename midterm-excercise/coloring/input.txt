@@ -1,0 +1,14 @@
+/*
+CHÚ Ý:
+ + đỉnh bắt đầu từ không
+ + đỉnh mà không nối với đỉnh nào thì viết nó duy nhất trên một dòng
+ + ngoài những chỗ có số ở mẫu có sẵn thì không viết thêm số ở bất cứ đâu
+để tránh nhầm lẫn khi đọc số từ file
+*/
+
+//số đỉnh: 5 (chú ý là số ĐỈNH, bắt đầu từ SỐ KHÔNG)
+//số cạnh: 2  (chú ý là số CẠNH, bắt đầu từ SỐ KHÔNG)
+graph gemdino {
+0 1
+0 2
+}

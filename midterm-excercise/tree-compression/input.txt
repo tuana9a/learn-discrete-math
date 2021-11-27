@@ -1,0 +1,21 @@
+/*
+CHÚ Ý:
+ + đỉnh bắt đầu từ không
+ + chỉ sửa số đỉnh, sửa cạnh và thêm cạnh mới không thêm số ở vị trí nào khác
+để tránh nhầm lẫn khi đọc số từ file
+*/
+
+
+(thay số của bạn vào số đỉnh bên dưới)
+//số đỉnh: 10 <-- sửa đây nè
+graph gemdino {
+0 -- 2
+0 -- 3
+2 -- 4
+2 -- 6
+2 -- 9
+6 -- 1
+6 -- 5
+9 -- 7
+9 -- 8
+}

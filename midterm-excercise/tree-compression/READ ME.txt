@@ -1,0 +1,5 @@
+- sửa file input.txt theo chỉ dẫn đã có sẵn trong đó
+- file input.txt dùng ngôn ngữ dot, có thể vẽ trực tiếp bằng graphviz
+- chạy chương trình đã biên dịch và không cần làm gì cả
+(không cần nhập gì lúc chạy)
+- kết quả prufercode sẽ được in ra màn hình console
